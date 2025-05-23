@@ -4,13 +4,13 @@
 
 <h1>Run the Todo Summary Assistant on a Cloud Platform Using Technologies  LLMs, Gemeni,React JS,NodeJS,ExpressJS,Slack API,,SVG, Firebase Using React JS</h1>
 <h1> Todos Summary Assistant App Link </h1><br/>
-<a href="https://github.com/lokeshaej/todosbackend">https://frontefront.vercel.app</a>
+<a href="https://frontefront.vercel.app/"> Todo Summary Assistant App</a>
 <br/><br/>
 <h2> Frontend Source Code Files</h2>
 <a href="https://github.com/lokeshaej/frontefront">Frontend Files Download</a><br/>
 
 <h2> Backend Source Code Files</h2>
-<a href="https://frontefront.vercel.app">Backend Files Download</a>
+<a href="https://github.com/lokeshaej/todosbackend">Backend Files Download</a>
 <br/>
 
 <h1> Todos Summary Assistant</h1>
